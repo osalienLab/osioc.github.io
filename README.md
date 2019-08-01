@@ -9,7 +9,7 @@
 
 ## Author
 
-👤 **yuanzhao &lt;osalien@qq.com&gt;**
+👤 **yuanzhao &lt;me@osalien.com&gt;**
 
 * Github: [@osalien](https://github.com/osalien)
 
